@@ -216,8 +216,5 @@ http://localhost:8080/swagger-ui.html
 4. Push to branch: `git push origin feature/NewFeature`
 5. Submit a Pull Request.
 
----
 
-## License
 
-This project was developed as an enterprise-grade full-stack portal for operational management and portfolio demonstration.
