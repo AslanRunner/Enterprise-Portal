@@ -12,11 +12,11 @@ The system is engineered on a layered three-tier architecture, pairing a robust 
 ![Executive Dashboard](./docs/screenshots/dashboard.png)
 *Central overview providing real-time room occupancies, birthdays, personal leave balances, equipment request statuses, and an interactive team appreciation board.*
 
-### Manager Approvals Portal (Admin & Manager Governance)
+### Manager Approvals Portal
 ![Manager Approvals](./docs/screenshots/manager-approvals.png)
 *Unified administrative queue for reviewing, approving, and rejecting leave and equipment requests with built-in self-approval prevention.*
 
-### Visual Meeting Room Scheduler & Conflict Prevention
+### Visual Meeting Room Scheduler 
 ![Meeting Room Scheduler](./docs/screenshots/meeting-rooms.png)
 *Interactive timeline displaying real-time slot occupancy across rooms with client and server-side collision validation.*
 
@@ -24,7 +24,7 @@ The system is engineered on a layered three-tier architecture, pairing a robust 
 ![Leave Management](./docs/screenshots/leaves.png)
 *Multi-tab interface providing personal submission tracking and company-wide leave schedules with automatic weekend exclusion.*
 
-### Corporate Announcements & Team Collaboration
+### Corporate Announcements 
 ![Announcements](./docs/screenshots/announcements.png)
 *Threaded communication feed for company updates, interactive comments, and post reactions.*
 
