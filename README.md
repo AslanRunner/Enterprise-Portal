@@ -4,6 +4,10 @@ Enterprise Portal is a comprehensive, full-stack corporate operations and employ
 
 The system is engineered on a layered three-tier architecture, pairing a robust **Spring Boot** RESTful API with a responsive **React (Vite)** single-page application and a **PostgreSQL** relational database.
 
+<p align="center">
+  <a href="./frontend/README.md">🎨 <b>Explore Dedicated Frontend Documentation (React + Vite) »</b></a>
+</p>
+
 ---
 
 ## Application Showcase
@@ -310,14 +314,16 @@ enterprise-portal/
 │   ├── jwt/             # JWT token provider, filter, and authentication DTOs
 │   ├── repository/      # Spring Data JPA repositories
 │   └── service/         # Business logic implementation
-├── frontend/
-│   └── src/
-│       ├── App.jsx      # Core single-page application & module views
-│       ├── index.css    # Custom responsive design system
-│       └── main.jsx     # Frontend entry point
+├── frontend/            # React 19 + Vite SPA (See frontend/README.md)
+│   ├── src/
+│   │   ├── App.jsx      # Core single-page application & module views
+│   │   ├── index.css    # Custom responsive design system
+│   │   └── main.jsx     # Frontend entry point
+│   └── README.md        # Dedicated frontend documentation
 ├── docs/
 │   └── screenshots/     # Application screenshots for documentation
 ├── docker-compose.yml   # PostgreSQL container specification
+├── LICENSE              # MIT License specification
 ├── pom.xml              # Maven dependencies & plugins
 └── README.md
 ```
@@ -343,3 +349,8 @@ http://localhost:8080/swagger-ui.html
 5. Submit a Pull Request.
 
 
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
