@@ -1,12 +1,18 @@
 # Enterprise Portal
 
+<div align="center">
+
+[![📖 System Overview](https://img.shields.io/badge/📖_System-Overview-2ea44f?style=for-the-badge)](#enterprise-portal)
+[![🎨 Frontend Guide](https://img.shields.io/badge/🎨_Frontend-React_19-0969da?style=for-the-badge)](./frontend/README.md)
+[![🔐 Security & JWT](https://img.shields.io/badge/🔐_Security-JWT_%26_RBAC-8957e5?style=for-the-badge)](#security--authentication-architecture)
+[![⚡ RESTful API](https://img.shields.io/badge/⚡_REST_API-Endpoints-f0883e?style=for-the-badge)](#restful-api-design--implementation)
+[![⚖️ MIT License](https://img.shields.io/badge/⚖️_License-MIT-gray?style=for-the-badge)](./LICENSE)
+
+</div>
+
 Enterprise Portal is a comprehensive, full-stack corporate operations and employee management system designed to centralize and streamline internal organizational workflows. The platform consolidates workforce directory management, meeting room reservations, leave processing, hardware inventory tracking, administrative approval workflows, and internal communications into a single unified interface.
 
 The system is engineered on a layered three-tier architecture, pairing a robust **Spring Boot** RESTful API with a responsive **React (Vite)** single-page application and a **PostgreSQL** relational database.
-
-<p align="center">
-  <a href="./frontend/README.md">🎨 <b>Explore Dedicated Frontend Documentation (React + Vite) »</b></a>
-</p>
 
 ---
 
