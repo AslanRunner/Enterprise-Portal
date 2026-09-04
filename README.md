@@ -304,7 +304,7 @@ enterprise-portal/
 │   ├── controller/      # REST API endpoints
 │   ├── dto/             # Data Transfer Objects
 │   ├── entity/          # JPA database entities
-│   ├── enums/           # System enumerations (LeaveStatus, LeaveType, etc.)
+│   ├── enums/           # System enumerations 
 │   ├── exception/       # Custom business exceptions
 │   ├── handler/         # Global REST exception handler
 │   ├── jwt/             # JWT token provider, filter, and authentication DTOs
